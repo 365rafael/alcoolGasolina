@@ -3,7 +3,8 @@
 - Aplicativo que recebe os valores do usuário: gasolina e álcool, fazendo o cálculo de qual combustível é mais viável abastecer.
 
 # Download
-Para efetuar o download do aplicativo, basta acessar RELEASE, aqui do lado direito.
+Para efetuar o download do aplicativo, basta acessar RELEASE, aqui do lado direito. 
+Ou clique aqui -> https://github.com/365rafael/alcoolGasolina/releases/tag/1.0
 
 # Preview
 
